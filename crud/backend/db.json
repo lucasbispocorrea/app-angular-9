@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Monitor Samsung 24",
+            "price": 890.89            
+        },
+        {
+            "id": 2,
+            "name": "Notebook Acer Aspire 3",
+            "price": 1989.89            
+        },
+        {
+            "id": 3,
+            "name": "Teclado Mecanico Redragon Kumara",
+            "price": 450.89            
+        }
+    ]
+}
