@@ -2,3 +2,15 @@ table {
     width: 100%;
     
 }
+
+.edit{
+    margin-right: 5px;
+}
+
+i.edit {
+    color: rgb(0, 81, 128);
+}
+
+i.delete {
+    color: #e35e6b;
+}
