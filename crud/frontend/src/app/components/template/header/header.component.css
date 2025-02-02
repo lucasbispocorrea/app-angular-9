@@ -17,6 +17,10 @@ max-height: 32px;
     padding-left: 25px;
 }
 
+a:visited {
+    color: #000;
+}
+
 .header .title-group i {
     padding-left: 5px;
 }
